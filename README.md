@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Karosia</h1>
-<h3 align="center">A MERN Stack Developer from India</h3>
+<h3 align="center">I am a FullStack Developer and a curious person who loves to know how different things work together. I love to BUILD STUFF and connect with people smarter than me! When I am not smashing the keyboard, you will find me playing pubg, Playing Cricket, Cooking. Currently I am a student at Masai School.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1998suraj&label=Profile%20views&color=0e75b6&style=flat" alt="1998suraj" /> </p>
 
