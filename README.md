@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **react, JS, Data Structures and Algorithms, Nodejs**
 
-- 📫 How to reach me **surajkarosia98@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/13h_5_Ykgnx__iN-9CwtDW24Mjl-nk3df/view?usp=sharing](https://drive.google.com/file/d/13h_5_Ykgnx__iN-9CwtDW24Mjl-nk3df/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Coder**
